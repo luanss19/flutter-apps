@@ -21,6 +21,35 @@
 ---
 
 <h2 align="center">
+    <a href="https://github.com/luanss19/perceive">Perceive</a>
+</h2>
+<p align="center">
+   <img src="https://github.com/luanss19/Perceive-TCC/blob/master/assets/demo/Perceive.gif" width="300px" alt="Perceive">
+  <br>
+
+<p>
+   Durante o desenvolvimento deste aplicativo, muitas ferramentas diferentes do framework <a href="https://flutter.dev/">Flutter</a> foram usadas, bem como pacotes da comunidade. Eles estão listados abaixo: <br>  
+   
+    - Stateless & Stateful,
+    - Pacotes Text To Speech,
+    - SizedBox,
+    - InkWell,
+    - SnackBar,
+    - WillPopScope,
+    - SQL Database,
+    - Pacotes de Music Players,
+    - Muito mais ferramentas e conceitos.
+</p>
+  
+  Este projeto foi desenvolvido para o meu Trabalho de Conclusão de Curso e consiste em um jogo de RPG Text-Based com um modo de acessibilidade que tem como função facilitar a utilização do aplicativo por pessoas com deficiência visual.
+</p>
+
+
+
+---
+---
+
+<h2 align="center">
     <a href="https://github.com/luanss19/counter">Contador de Pessoas</a>
 </h2>
 <p align="center">
@@ -67,6 +96,36 @@
 <h2 align="center">Previews</h2>
 
    > * I'm still developing some of the apps.
+
+---
+
+<h2 align="center">
+    <a href="https://github.com/luanss19/perceive">Perceive</a>
+</h2>
+<p align="center">
+   <img src="https://github.com/luanss19/Perceive-TCC/blob/master/assets/demo/Perceive.gif" width="300px" alt="Perceive">
+  <br>
+
+<p>
+    During the development of this app, a lot of different tools of the <a href="https://flutter.dev/">Flutter</a> framework were used, as well as packages from the community. They are listed bellow : <br>  
+   
+    - Stateless & Stateful,
+    - Text To Speech Packages,
+    - SizedBox,
+    - InkWell,
+    - SnackBar,
+    - WillPopScope,
+    - SQL Database,
+    - Music Player Packages,
+    - Much more...
+</p>
+  
+  This project was developed for the Final Paper at my university and consists of a Text-Based RPG game with an accessibility mode that has the function of facilitating the use of the application by people with visual impairments.
+</p>
+
+
+
+---
 
 ---
 
