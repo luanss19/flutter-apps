@@ -59,7 +59,7 @@
    
 <p align="center">
    This repository contains links and references to all my projects developed in flutter, with previews of the applications followed by a brief explanation about each one. Because it's a great language to work with and with a lot of room for growth, Dart with the Flutter framework is the area that I'm specializing more lately.<br>
-   Some of this apps were made with the couse "<a href="https://www.udemy.com/course/curso-completo-flutter-app-android-ios/">Criação de Apps Android e iOS com Flutter - Crie 16 Apps</a>", from the instructor <a href="https://linkedin.com/in/danielciolfi">Daniel Ciolfi</a>.<br>
+   Some of this apps were made with the couse "<a href="https://www.udemy.com/course/curso-completo-flutter-app-android-ios/">Creating Android and iOS Apps with Flutter - Create 16 Apps</a>", from the instructor <a href="https://linkedin.com/in/danielciolfi">Daniel Ciolfi</a>.<br>
 </p>
 
 ---
