@@ -7,6 +7,7 @@
 
 <h2 align="center">Descrição</h2>
    
+   For a english version of this repository go to : <a href="https://github.com/luanss19/flutter-apps-english">Flutter Apps (English) </a>
 <p align="center">
    Este repositório contém links e referências para todos os meus projetos desenvolvidos em flutter, com previews das aplicações seguidas de uma breve explicação sobre cada uma. Por ser uma ótima linguagem de se trabalhar e com muito espaço para crescimento o Dart com o framework Flutter é a área que estou mais me especializando ultimamente.<br>
    Alguns destes apps foram desenvolvidos no curso "<a href="https://www.udemy.com/course/curso-completo-flutter-app-android-ios/">Criação de Apps Android e iOS com Flutter - Crie 16 Apps</a>", do instrutor <a href="https://linkedin.com/in/danielciolfi">Daniel Ciolfi</a>.<br>
