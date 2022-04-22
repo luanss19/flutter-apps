@@ -31,7 +31,7 @@
 <p>
    Durante o desenvolvimento deste aplicativo, muitas ferramentas diferentes do framework <a href="https://flutter.dev/">Flutter</a> foram usadas, bem como pacotes da comunidade. Eles estão listados abaixo: <br>  
    
-    - Stateless & Stateful,
+    - Gerenciamento de Estado e Rotas com Getx,
     - Pacotes Text To Speech,
     - SizedBox,
     - InkWell,
