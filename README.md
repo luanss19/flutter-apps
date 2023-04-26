@@ -22,7 +22,7 @@
 ---
 
 <h2 align="center">
-    <a href="https://github.com/luanss19/perceive">Perceive</a>
+    <a href="https://github.com/luanss19/Perceive-TCC">Perceive</a>
 </h2>
 <p align="center">
    <img src="https://github.com/luanss19/Perceive-TCC/blob/master/assets/demo/Perceive.gif" width="300px" alt="Perceive">
